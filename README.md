@@ -2,7 +2,7 @@
 
 Materials for the workshop **"Define, Design, Build Agents in Copilot Cowork"**. The repo has the slide deck, sample business documents to run agents against, and example skills that show how to package organisational know-how for an agent.
 
-The demo uses a fictional general insurer, **Harbourline**.
+The demos use IAG's public FY26 results alongside internal-style documents for a fictional general insurer, **Harbourline**.
 
 ## Contents
 
@@ -14,7 +14,7 @@ The demo uses a fictional general insurer, **Harbourline**.
 
 ### Demo files
 
-- `annual-report.pdf`: insurer annual report, used for KPI extraction and analysis
+- `annual-report.pdf`: IAG FY26 results release (13 August 2026, 4 pages), used for KPI extraction and analysis with the `insurance-kpis` skill
 - `board-paper.pdf`: draft Board paper, used for review against the Board paper standard
 - `business-case-model.xlsx`: business case financial model that goes with the Board paper
 
@@ -40,4 +40,4 @@ Adapt the skills to your organisation by editing the references to SharePoint lo
 
 ## Disclaimer
 
-Harbourline, the people it names and all figures are fictional and exist only for training.
+`annual-report.pdf` is IAG's publicly released FY26 results announcement, included for training use. Everything else (Harbourline, the people it names and all figures in the Board paper, business case model and skills) is fictional and exists only for training.
